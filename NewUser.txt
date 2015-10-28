@@ -1,2 +1,3 @@
 KamilKrol
 KamilKrol - to trigger Travis build
+KamilKrol - trigger 2nd build
