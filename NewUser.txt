@@ -1,1 +1,2 @@
 KamilKrol
+KamilKrol - to trigger Travis build
